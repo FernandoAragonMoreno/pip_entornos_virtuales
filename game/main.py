@@ -7,7 +7,7 @@ def choose_options():
   user_option = user_option.lower()
 
   if not user_option in options:
-    print('esa opcion no es valida')
+    print('esa opción no es valida')
     # continue
     return None, None
 
