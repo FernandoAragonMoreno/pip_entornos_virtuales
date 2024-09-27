@@ -12,8 +12,8 @@ python main.py
 ```sh
 git clone
 cd charts
-python -m venv nombre_del_entorno
-.\nombre_del_entorno\Scripts\Activate
+python -m venv first_virtual_environment
+.\first_virtual_environment\Scripts\Activate
 pip install -r requirements.txt
 python main.py
 ```
